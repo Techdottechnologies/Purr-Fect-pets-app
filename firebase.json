@@ -1,0 +1,30 @@
+{
+	"flutter": {
+		"platforms": {
+			"android": {
+				"default": {
+					"projectId": "barking-club",
+					"appId": "1:451447977625:android:5b6de78e5750df31b0aa08",
+					"fileOutput": "android/app/google-services.json"
+				}
+			},
+			"ios": {
+				"default": {
+					"projectId": "barking-club",
+					"appId": "1:451447977625:ios:e0d21472a45a1166b0aa08",
+					"uploadDebugSymbols": false,
+					"fileOutput": "ios/Runner/GoogleService-Info.plist"
+				}
+			},
+			"dart": {
+				"lib/firebase_options.dart": {
+					"projectId": "barking-club",
+					"configurations": {
+						"android": "1:451447977625:android:5b6de78e5750df31b0aa08",
+						"ios": "1:451447977625:ios:e0d21472a45a1166b0aa08"
+					}
+				}
+			}
+		}
+	}
+}

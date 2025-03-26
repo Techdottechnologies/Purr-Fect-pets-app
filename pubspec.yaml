@@ -1,0 +1,90 @@
+name: petcare
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  responsive_sizer: ^3.3.1
+  get :
+  google_fonts: ^6.2.1
+  persistent_bottom_nav_bar_v2: ^5.3.0
+  smooth_page_indicator: ^1.1.0
+  google_maps_flutter: ^2.6.1
+  readmore: ^3.0.0
+  transparent_image: ^2.0.1
+  flutter_slidable :
+  draggable_bottom_sheet: 
+  dropdown_button2 :
+  remixicon: ^1.0.0
+  flutter_zoom_drawer: 
+  day_night_time_picker :
+  otp_pin_field :
+  custom_info_window: 
+  flutter_keyboard_visibility: ^6.0.0
+  animated_weight_picker: ^1.0.3
+  fl_chart: 
+  salomon_bottom_bar :
+  url_launcher : ^6.3.0
+  flutter_clean_calendar: ^1.1.0
+  percent_indicator: 
+  chips_choice: 
+  # country_picker: 
+  country_code_picker:
+  flutter_switch :
+  flutter_image_stack: ^0.0.7
+  firebase_core: ^3.7.0
+  flutter_bloc: ^8.1.6
+  firebase_auth: ^5.3.2
+  cloud_firestore: ^5.4.5
+  firebase_storage: ^12.3.5
+  intl: ^0.17.0
+  image_picker: ^1.1.2
+  cached_network_image: ^3.3.1
+  geolocator: ^12.0.0
+  paginate_firestore: ^1.0.3+1
+  # percent_indicator: ^4.2.3
+  permission_handler:
+  timeago:
+
+  place_picker:
+    git:
+      url: https://github.com/pro-akbar/locationpicker.git
+      ref: master
+  sign_in_with_apple: ^6.1.1
+  google_sign_in: ^6.2.1
+  flutter_svg: ^2.0.9
+  lottie: ^3.1.2
+  firebase_messaging: ^15.1.4
+  shared_preferences: ^2.2.3
+  flutter_local_notifications: ^17.2.1+2
+
+dev_dependencies:
+  flutter_launcher_icons: 
+
+  flutter_test:
+    sdk: flutter
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/logo_new.png"
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets: 
+    - assets/icons/
+    - assets/icons/pets/
+    - assets/images/
+    - assets/nav/
+    - assets/map_style.json

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "675041656957",
+    "project_id": "shop-app-13ea2",
+    "storage_bucket": "shop-app-13ea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675041656957:android:67c4f6e6d58ee43fd1b114",
+        "android_client_info": {
+          "package_name": "com.mk.resell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675041656957-ame9jfjhtka8c2ioa72sld3p1pd6662u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mk.resell",
+            "certificate_hash": "f8253a6cb7d41014bf326b04dc84df70e32e844a"
+          }
+        },
+        {
+          "client_id": "675041656957-j568pu4lchfoin548ja9uevong0oafoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLy-03G6OqInQs1BbQsgh6i7pfQp0PtPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675041656957-j568pu4lchfoin548ja9uevong0oafoc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "675041656957-86i6ks18m4uoecsl7g57sfs0goh9bshp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techdot.petapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675041656957:android:72b8b59c354daa2ed1b114",
+        "android_client_info": {
+          "package_name": "com.techdot.petapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675041656957-81u5oaceltdqhj4bls82sjei62ubo4f2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techdot.petapp",
+            "certificate_hash": "f8253a6cb7d41014bf326b04dc84df70e32e844a"
+          }
+        },
+        {
+          "client_id": "675041656957-j568pu4lchfoin548ja9uevong0oafoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLy-03G6OqInQs1BbQsgh6i7pfQp0PtPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675041656957-j568pu4lchfoin548ja9uevong0oafoc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "675041656957-86i6ks18m4uoecsl7g57sfs0goh9bshp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techdot.petapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
